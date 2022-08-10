@@ -1,5 +1,6 @@
 # Test Reporter
-
+ 
+ 
 This [Github Action](https://github.com/features/actions) displays test results from popular testing frameworks directly in GitHub.
 
 ✔️ Parses test results in XML or JSON format and creates nice report as Github Check Run
